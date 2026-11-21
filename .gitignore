@@ -1,0 +1,8 @@
+.vercel
+dist
+assets/*.json
+/icon.webp
+/mobile-catalog-second-pass.png
+/mobile-hero-first-pass.png
+/quote-form-responsive-proposal.png
+/vercel.json

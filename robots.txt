@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://irtaza-sports.vercel.app/sitemap.xml
+Sitemap: https://syedmustafabukhari123.github.io/irtaza-website/sitemap.xml
